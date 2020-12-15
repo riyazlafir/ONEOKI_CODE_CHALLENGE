@@ -27,10 +27,3 @@
 ## End Goal
 
 Make all failing tests pass!!
-
-## How to submit your solutions ?
-
-- Push your solutions to your personal gihub account
-- Email us when you are done!
-
-# BEST OF LUCK !!
